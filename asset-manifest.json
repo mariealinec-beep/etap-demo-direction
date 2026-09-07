@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/etap-demo-direction/static/css/main.6280b619.css",
-    "main.js": "/etap-demo-direction/static/js/main.bb4bb6bb.js",
+    "main.js": "/etap-demo-direction/static/js/main.38e4263a.js",
     "index.html": "/etap-demo-direction/index.html",
     "main.6280b619.css.map": "/etap-demo-direction/static/css/main.6280b619.css.map",
-    "main.bb4bb6bb.js.map": "/etap-demo-direction/static/js/main.bb4bb6bb.js.map"
+    "main.38e4263a.js.map": "/etap-demo-direction/static/js/main.38e4263a.js.map"
   },
   "entrypoints": [
     "static/css/main.6280b619.css",
-    "static/js/main.bb4bb6bb.js"
+    "static/js/main.38e4263a.js"
   ]
 }
