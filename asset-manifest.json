@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/etap-demo-direction/static/css/main.6280b619.css",
-    "main.js": "/etap-demo-direction/static/js/main.3e179784.js",
+    "main.js": "/etap-demo-direction/static/js/main.b9d3f1f6.js",
     "index.html": "/etap-demo-direction/index.html"
   },
   "entrypoints": [
     "static/css/main.6280b619.css",
-    "static/js/main.3e179784.js"
+    "static/js/main.b9d3f1f6.js"
   ]
 }
