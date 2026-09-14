@@ -1,23 +1,24 @@
 {
+  "id": "/etap-demo-direction/",
   "name": "ETAP – Éducation Thérapeutique Adaptée Partagée",
   "short_name": "ETAP",
   "description": "Du corps douloureux à l'apaisement intérieur.",
-  "start_url": "/",
+  "start_url": "/etap-demo-direction/",
   "display": "standalone",
   "background_color": "#4FAFC0",
   "theme_color": "#4FAFC0",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "/etap-demo-direction/",
   "lang": "fr",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/etap-demo-direction/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/etap-demo-direction/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
